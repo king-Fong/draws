@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T03:01:37.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rdyh0-LkQM6rY7QltSa3" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T03:15:30.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="aepMJvGxRvSRDCXdorn5" version="24.3.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="662" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7baba1c4bc27f4b0-2" value=":cmcf-bpm" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="490" y="80" width="100" height="580" as="geometry" />
+          <mxGeometry x="490" y="80" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sF7c5ne8xNVPPS51PT5F-4" value="1.无本地记录&lt;div&gt;2.无审批人信息&lt;br&gt;&lt;div&gt;3.查询审批人并返回&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.859;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-2" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-10">
-          <mxGeometry x="0.0866" y="60" relative="1" as="geometry">
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-4" value="1.无本地记录&lt;div&gt;2.无审批人信息&lt;br&gt;&lt;div&gt;3.查询审批人并返回&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.859;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;align=left;" edge="1" parent="7baba1c4bc27f4b0-2" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-10">
+          <mxGeometry x="0.1674" y="10" relative="1" as="geometry">
             <mxPoint x="60" y="100" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="140" y="102" />
@@ -23,14 +23,23 @@
         <mxCell id="sF7c5ne8xNVPPS51PT5F-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-2">
           <mxGeometry x="45" y="240" width="10" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-15" value="&lt;span style=&quot;font-family: Verdana; font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;返回审批中状态&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="30" y="330" as="sourcePoint" />
+            <mxPoint x="-70" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-2">
+          <mxGeometry x="45" y="390" width="10" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-3" value=":cmcf-cp" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="720" y="80" width="100" height="580" as="geometry" />
+          <mxGeometry x="850" y="95" width="100" height="665" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-3" vertex="1">
-          <mxGeometry x="45" y="120" width="10" height="200" as="geometry" />
+          <mxGeometry x="45" y="520" width="10" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-8" value=":cmcf-admin-fronted" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="350" y="80" width="100" height="580" as="geometry" />
+          <mxGeometry x="350" y="80" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="130" as="geometry" />
@@ -50,6 +59,22 @@
             <mxPoint x="180" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-8">
+          <mxGeometry x="45" y="390" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-35" value="第三次访问:(审批人?)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="7baba1c4bc27f4b0-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="400" as="sourcePoint" />
+            <mxPoint x="180" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-32" value="&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;返回&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 12px; font-family: Verdana;&quot;&gt;其余状态返回信息&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=left;" edge="1" parent="7baba1c4bc27f4b0-8">
+          <mxGeometry x="1" y="-10" width="80" relative="1" as="geometry">
+            <mxPoint x="170" y="490" as="sourcePoint" />
+            <mxPoint x="60" y="490" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-14" value="调用审批接口" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.976;exitY=0.157;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.035;entryY=0.157;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="180" as="sourcePoint" />
@@ -57,10 +82,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sF7c5ne8xNVPPS51PT5F-1" value=":用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="100" height="580" as="geometry" />
+          <mxGeometry x="200" y="80" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="sF7c5ne8xNVPPS51PT5F-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="sF7c5ne8xNVPPS51PT5F-1">
-          <mxGeometry x="45" y="80" width="10" height="480" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="520" as="geometry" />
         </mxCell>
         <mxCell id="sF7c5ne8xNVPPS51PT5F-3" value="第一次访问" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.878;exitY=0.039;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.153;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sF7c5ne8xNVPPS51PT5F-2" target="7baba1c4bc27f4b0-9">
           <mxGeometry relative="1" as="geometry">
@@ -80,14 +105,49 @@
             <mxPoint x="253.98000000000002" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sF7c5ne8xNVPPS51PT5F-14" value="1.无本地记录&lt;div&gt;2.存在审批人信息&lt;/div&gt;&lt;div&gt;3.发起审批&lt;/div&gt;&lt;div&gt;4.更新本地记录&lt;/div&gt;&lt;div&gt;5.返回审批中状态&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.859;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="0.245" y="54" relative="1" as="geometry">
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-14" value="1.无本地记录&lt;div&gt;2.存在审批人信息&lt;/div&gt;&lt;div&gt;3.发起审批&lt;/div&gt;&lt;div&gt;4.更新本地记录&lt;/div&gt;&lt;div&gt;5.返回审批中状态&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.859;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;align=left;" edge="1" parent="1">
+          <mxGeometry x="0.245" y="4" relative="1" as="geometry">
             <mxPoint x="550" y="331" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="636" y="333" />
             </Array>
             <mxPoint x="551" y="409" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-16" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;提示：审批中&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="410" as="sourcePoint" />
+            <mxPoint x="270" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-33" value="第三次访问:(审批人?)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="480" as="sourcePoint" />
+            <mxPoint x="380" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-36" value="1.有本地记录&lt;div&gt;2.成功状态|(&lt;span style=&quot;background-color: initial;&quot;&gt;失败|审批中&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)重新查询&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3.返回状态(成功|异常|审批中)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.859;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;align=left;" edge="1" parent="1">
+          <mxGeometry x="0.2" y="4" relative="1" as="geometry">
+            <mxPoint x="560" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="646" y="482" />
+            </Array>
+            <mxPoint x="560" y="568" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-37" value="&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 12px; font-family: Verdana;&quot;&gt;展示提示&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=left;" edge="1" parent="1">
+          <mxGeometry x="1" y="-10" width="80" relative="1" as="geometry">
+            <mxPoint x="380" y="570" as="sourcePoint" />
+            <mxPoint x="260" y="570" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sF7c5ne8xNVPPS51PT5F-40" value="请求实际数据" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="640" as="sourcePoint" />
+            <mxPoint x="890" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
